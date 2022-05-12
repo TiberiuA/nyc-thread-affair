@@ -1,4 +1,4 @@
-export default function HomeNewsLetter() {
+export default function HomeNewsletter() {
   return (
   <section className="home-newsletter">
     <form className="container">
