@@ -10,7 +10,7 @@ export default function Test() {
       </Head>
       <div>
       Hello
-      <i class="fa-solid fa-phone"></i>
+      <i className="fa-solid fa-phone"></i>
       <button className="button">Test</button>
       <button className="button button-large">Test Large</button>
       <a className="button">test</a>
