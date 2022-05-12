@@ -1,5 +1,5 @@
-import ProductTile from './catalog/product-tile';
-import HomeNewsletter from './homepage/home-newsletetter';
+import ProductTile from &apos;'&apos;./catalog/product-tile&apos;'&apos;;
+import HomeNewsletter from &apos;'&apos;./homepage/home-newsletetter&apos;'&apos;;
 
 export default function Main() {
   return (
@@ -44,11 +44,11 @@ export default function Main() {
 
             <p>
               Accomplish new achievements with a bold new style from the
-              brilliant collection of men's designer suits.
+              brilliant collection of men&apos;'&apos;s designer suits.
             </p>
             <p>
               For the finest custom tailored experience, be sure to explore our
-              selection of premium fabrics from one of the world's oldest fabric
+              selection of premium fabrics from one of the world&apos;'&apos;s oldest fabric
               mills, Vitale Barberis Canonico.
             </p>
           </header>
@@ -82,11 +82,11 @@ export default function Main() {
 
             <p>
               Accomplish new achievements with a bold new style from the
-              brilliant collection of men's designer suits.
+              brilliant collection of men&apos;'&apos;s designer suits.
             </p>
             <p>
               For the finest custom tailored experience, be sure to explore our
-              selection of premium fabrics from one of the world's oldest fabric
+              selection of premium fabrics from one of the world&apos;'&apos;s oldest fabric
               mills, Vitale Barberis Canonico.
             </p>
           </header>
@@ -114,11 +114,11 @@ export default function Main() {
 
             <p>
               Accomplish new achievements with a bold new style from the
-              brilliant collection of men's designer suits.
+              brilliant collection of men&apos;'&apos;s designer suits.
             </p>
             <p>
               For the finest custom tailored experience, be sure to explore our
-              selection of premium fabrics from one of the world's oldest fabric
+              selection of premium fabrics from one of the world&apos;'&apos;s oldest fabric
               mills, Vitale Barberis Canonico.
             </p>
           </header>
@@ -151,11 +151,11 @@ export default function Main() {
 
             <p>
               Accomplish new achievements with a bold new style from the
-              brilliant collection of men's designer suits.
+              brilliant collection of men&apos;'&apos;s designer suits.
             </p>
             <p>
               For the finest custom tailored experience, be sure to explore our
-              selection of premium fabrics from one of the world's oldest fabric
+              selection of premium fabrics from one of the world&apos;'&apos;s oldest fabric
               mills, Vitale Barberis Canonico.
             </p>
           </header>
