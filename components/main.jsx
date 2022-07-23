@@ -1,11 +1,15 @@
 import ProductTile from './catalog/product-tile';
+import HomeCarousel from './homepage/home-carousel';
 import HomeNewsletter from './homepage/home-newsletetter';
 
 export default function Main() {
   return (
     <main className="content">
+              <HomeCarousel></HomeCarousel>
       <header className="content-header">
-        <div className="banner-main">
+        {/* <div className="banner-main">
+
+
           <div className="banner-main-inner container">
             <div className="banner-info">
               <h1>Office Suits</h1>
@@ -32,7 +36,8 @@ export default function Main() {
               </p>
             </div>
           </div>
-        </div>
+        </div> */}
+
       </header>
 
       <section className="content-main">
